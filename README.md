@@ -1,8 +1,8 @@
-# 👋 Xin chào! Mình là NhiBuaa
+# 👋 Hello! I'm NhiBuaa
 
-🌱 Hiện tại mình đang học và thực hành tại Ton Duc Thang University.
+🌱 Currently, I'm studying and practicing at Ton Duc Thang University.
 
-💼 Mục tiêu: Trở thành Full-stack Developer.
+💼 Goal: Become a Full-stack Developer.
 
 ## Bạn có thể tìm hiểu thêm về mình tại
 - Website: [https://nhibuaa.vercel.app](https://nhibuaa.vercel.app)
