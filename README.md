@@ -4,5 +4,5 @@
 
 💼 Goal: Become a Full-stack Developer.
 
-## Bạn có thể tìm hiểu thêm về mình tại
+## You can find me at
 - Website: [https://nhibuaa.vercel.app](https://nhibuaa.vercel.app)
