@@ -4,6 +4,5 @@
 
 💼 Mục tiêu: trở thành Full-stack Developer.
 
-## 📫 Liên hệ
-- Email: nhihuynh210905@gmail.com 
+## Bạn có thể tìm hiểu thêm về mình tại
 - Website: [https://nhibuaa.vercel.app](https://nhibuaa.vercel.app)
