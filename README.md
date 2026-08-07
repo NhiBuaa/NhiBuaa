@@ -1,14 +1,23 @@
-# 👋 Hello! I'm NhiBuaa
+# Hi, I'm Huynh Ngoc Nhi
 
-🌱 Currently, I'm studying and practicing at **Ton Duc Thang University**.  
-💼 Goal: Become a **Full-stack Developer**.
+Final-year Software Engineering student at **Ton Duc Thang University**, based in Ho Chi Minh City.  
+I build backend-oriented fullstack systems and applied AI agents.
 
----
+## Featured projects
 
-## 🌐 You can find me at
+- **[KittaChat](https://github.com/NhiBuaa/kitta-chat)** — A full-stack realtime communication platform built with React, Node.js, Socket.IO, MongoDB, Redis and RabbitMQ. Focus areas include reliable message delivery, idempotency, distributed coordination and testing.
+  - [Watch the product demo](https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view)
 
-- 🌎 Website: [nhibuaa.space](https://nhibuaa.space)
-- 💼 LinkedIn: [linkedin.com/in/nhibuaa](https://linkedin.com/in/nhibuaa)
-- 📘 Facebook: [facebook.com/nhibuaa](https://facebook.com/nhibuaa)
-- 🐙 GitHub: [github.com/NhiBuaa](https://github.com/NhiBuaa)
-- ✉️ Email: nhihuynh210905@gmail.com
+- **[Knora Agent](https://github.com/NhiBuaa/knora-agent)** — An AI support and knowledge agent with FastAPI, PostgreSQL/pgvector, workspace-isolated retrieval, cited answers, refusal behavior and evaluation traces.
+
+## Current focus
+
+- Backend reliability and realtime systems
+- API design, testing and Docker-based delivery
+- Retrieval-augmented generation and AI agent evaluation
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/nhibuaa/)
+- [Portfolio](https://nhibuaa.space)
+- Email: nhihuynh210905@gmail.com
