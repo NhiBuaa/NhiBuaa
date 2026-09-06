@@ -1,27 +1,107 @@
-# Hi, I'm Huynh Ngoc Nhi
+<p align="center">
+  <img src="./assets/cozy-header.svg" alt="NhiBuaa cozy dark forest developer header" width="100%" />
+</p>
 
-Final-year Software Engineering student at **Ton Duc Thang University** (expected graduation: 2027), based in Ho Chi Minh City.<br />
-I build backend-oriented full-stack systems and applied AI agents.
+<p align="center">
+  <sub>software engineering student · ho chi minh city</sub>
+</p>
 
-## Featured projects
+## about me
 
-- **[KittaChat](https://github.com/NhiBuaa/kitta-chat)** — A full-stack real-time communication platform built with React, Node.js, Socket.IO, MongoDB, Redis and RabbitMQ. Focus areas include reliable message delivery, idempotency, distributed coordination and testing.
-  - [Watch the product demo](https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view)
+hey, i'm nhi.
 
-- **[Knora Agent](https://github.com/NhiBuaa/knora-agent)** — An AI support and knowledge agent with FastAPI, PostgreSQL/pgvector, workspace-isolated retrieval, cited answers, refusal behavior and evaluation traces. The repository documents a reproducible local workflow; no hosted demo is advertised yet.
+i like building software, drinking coffee, listening to chill music, and spending way too much time figuring out why something that worked yesterday suddenly doesn't work today.
 
-## Current focus
+most days i'm somewhere between **backend systems**, **realtime apps**, **ai agents**, and whatever feels interesting enough to explore next.
 
-- Backend reliability and realtime systems
-- API design, testing and Docker-based delivery
-- Retrieval-augmented generation and AI agent evaluation
+> build it → break it → understand it → make it better.
 
-## Additional training
+## things i'm building
 
-- [5-Day AI Agents: Intensive Vibe Coding Course With Google](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google) — Kaggle / Google, June 2026 (participated; no certificate or badge claim).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NhiBuaa/kitta-chat">
+        <img src="./assets/kittachat-card.svg" alt="KittaChat project card" width="100%" />
+      </a>
+      <br />
+      <sub>
+        a full-stack realtime communication platform where i've been exploring reliable message delivery, distributed coordination, idempotency and WebRTC.
+      </sub>
+      <br /><br />
+      <a href="https://github.com/NhiBuaa/kitta-chat"><b>peek inside →</b></a>
+      ·
+      <a href="https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view"><b>watch demo ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NhiBuaa/knora-agent">
+        <img src="./assets/knora-card.svg" alt="Knora project card" width="100%" />
+      </a>
+      <br />
+      <sub>
+        an AI support and knowledge agent for uploaded documents, with cited answers, workspace isolation, ingestion pipelines and evaluation traces.
+      </sub>
+      <br /><br />
+      <a href="https://github.com/NhiBuaa/knora-agent"><b>explore knora →</b></a>
+    </td>
+  </tr>
+</table>
 
-## Contact
+## my little toolbox
 
-- [LinkedIn](https://www.linkedin.com/in/nhibuaa/)
-- [Portfolio](https://nhibuaa.space)
-- Email: nhihuynh210905@gmail.com
+<p>
+  <code>TypeScript</code>
+  <code>JavaScript</code>
+  <code>Python</code>
+  <code>Java</code>
+  <code>SQL</code>
+</p>
+
+<p>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>FastAPI</code>
+  <code>React</code>
+  <code>PostgreSQL</code>
+  <code>MongoDB</code>
+  <code>Redis</code>
+</p>
+
+<p>
+  <code>Docker</code>
+  <code>Kubernetes</code>
+  <code>GitHub Actions</code>
+  <code>AWS</code>
+</p>
+
+## currently wandering around
+
+```text
+🌱 learning     distributed systems & software architecture
+🛠 building     backend-heavy products and AI applications
+☕ fueled by    coffee and questionable sleep schedules
+🎧 listening    lofi / chill / whatever keeps the room quiet
+🎮 escaping     into games every now and then
+```
+
+## a few more things i've shipped
+
+- **[DevOps Final Project](https://github.com/NhiBuaa/devops-final-project)** — Docker, Kubernetes/K3s, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Loki and AWS around a small full-stack workload.
+- **[8-Puzzle Variation](https://github.com/NhiBuaa/8-Puzzle-Variation)** — a smaller algorithm-focused project from the more academic side of my GitHub.
+- **[image-processing-app](https://github.com/NhiBuaa/image-processing-app)** — a compact image-processing project from my coursework experiments.
+
+## find me elsewhere
+
+<p>
+  <a href="https://nhibuaa.space">portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/nhibuaa/">linkedin</a>
+  ·
+  <a href="mailto:nhihuynh210905@gmail.com">email</a>
+</p>
+
+<br />
+
+<p align="center">
+  <sub>🌿 thanks for wandering by — see you around.</sub>
+</p>
