@@ -1,0 +1,59 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11130F"/>
+      <stop offset="0.55" stop-color="#182017"/>
+      <stop offset="1" stop-color="#2A2018"/>
+    </linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="0" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17231D"/>
+      <stop offset="1" stop-color="#0E1511"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="304" rx="20" stroke="#3A4736" stroke-opacity="0.55"/>
+  <rect x="54" y="54" width="310" height="202" rx="16" fill="url(#window)" stroke="#39463A"/>
+  <path d="M157 54V256M260 54V256M54 155H364" stroke="#2B362D"/>
+  <path d="M79 73L66 101M119 88L106 116M189 66L175 97M233 109L219 139M294 74L280 104M338 119L325 148M91 169L78 198M151 184L138 214M205 163L192 191M277 178L264 207M331 167L317 197" stroke="#687565" stroke-width="3" stroke-linecap="round" opacity="0.62"/>
+  <path d="M54 228L88 190L111 216L142 171L176 216L207 181L238 218L278 166L313 214L344 185L364 206V256H54V228Z" fill="#1E2D21"/>
+  <path d="M54 239L86 213L117 232L155 198L192 235L229 205L260 233L298 201L334 229L364 211V256H54V239Z" fill="#263B29"/>
+
+  <ellipse cx="1026" cy="148" rx="170" ry="138" fill="#A77649" opacity="0.16" filter="url(#soft)"/>
+  <rect x="1017" y="108" width="12" height="120" rx="6" fill="#4A3728"/>
+  <path d="M975 108H1072L1052 70H997L975 108Z" fill="#6F4E37"/>
+  <ellipse cx="1024" cy="108" rx="48" ry="12" fill="#C49A68" opacity="0.6"/>
+
+  <path d="M0 286H1200V360H0V286Z" fill="#2B211A"/>
+  <path d="M0 286H1200" stroke="#6A4D35" stroke-width="5" opacity="0.65"/>
+  <path d="M35 317C172 302 264 342 404 320C553 297 645 346 792 320C946 292 1050 337 1175 314" stroke="#3A2A20" stroke-width="3" opacity="0.55"/>
+
+  <rect x="805" y="201" width="177" height="99" rx="9" fill="#151915" stroke="#58624F" stroke-width="3"/>
+  <rect x="819" y="215" width="149" height="70" rx="5" fill="#1D2A20"/>
+  <text x="893.5" y="248" text-anchor="middle" fill="#AAB59A" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">$ Build something</text>
+  <text x="893.5" y="270" text-anchor="middle" fill="#7F8E76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Then make it better.</text>
+  <path d="M786 302H1001L981 316H807L786 302Z" fill="#323A31"/>
+
+  <path d="M1055 257H1113V306C1113 318 1103 327 1091 327H1077C1065 327 1055 318 1055 306V257Z" fill="#60442F"/>
+  <path d="M1112 270H1124C1138 270 1138 294 1124 294H1112" stroke="#60442F" stroke-width="7"/>
+  <path d="M1070 245C1061 233 1081 226 1072 213M1092 245C1083 233 1103 226 1094 213" stroke="#A88A69" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+
+  <path d="M716 246C704 220 704 193 712 166M718 226C737 210 748 192 751 170M711 210C690 198 677 181 672 161" stroke="#53644A" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="668" cy="156" rx="24" ry="11" transform="rotate(-32 668 156)" fill="#3E513B"/>
+  <ellipse cx="756" cy="166" rx="25" ry="11" transform="rotate(-42 756 166)" fill="#465C41"/>
+  <ellipse cx="704" cy="164" rx="24" ry="11" transform="rotate(72 704 164)" fill="#53644A"/>
+  <path d="M682 243H748L739 300H691L682 243Z" fill="#4A3728"/>
+
+  <text x="418" y="112" fill="#D8C3A5" font-size="58" font-weight="700" letter-spacing="4" font-family="Georgia, 'Times New Roman', serif">NhiBuaa</text>
+  <text x="422" y="157" fill="#AEB79F" font-size="21" letter-spacing="1.5" font-family="ui-sans-serif, system-ui, sans-serif">Building things, quietly.</text>
+  <path d="M420 184H645" stroke="#606C38" stroke-width="3" stroke-linecap="round"/>
+  <text x="422" y="219" fill="#8F987E" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Backend · Realtime · AI · Whatever feels worth exploring</text>
+
+  <circle cx="440" cy="69" r="2" fill="#B79A70" opacity="0.75"/>
+  <circle cx="685" cy="91" r="1.5" fill="#879078" opacity="0.7"/>
+  <circle cx="756" cy="71" r="2" fill="#B79A70" opacity="0.55"/>
+  <circle cx="1141" cy="62" r="1.8" fill="#879078" opacity="0.5"/>
+</svg>

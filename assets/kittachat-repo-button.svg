@@ -1,0 +1,13 @@
+<svg width="240" height="58" viewBox="0 0 240 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="s" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#080A07" flood-opacity="0.45"/></filter>
+  </defs>
+  <g filter="url(#s)">
+    <rect x="3" y="3" width="234" height="50" rx="15" fill="#1A211A" stroke="#46543F"/>
+    <rect x="14" y="11" width="34" height="34" rx="10" fill="#283618"/>
+    <path d="M24 21H31L35 25H39C41.2 25 43 26.8 43 29V37C43 39.2 41.2 41 39 41H24C21.8 41 20 39.2 20 37V25C20 22.8 21.8 21 24 21Z" stroke="#D8C3A5" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M27 31H36M33 27L37 31L33 35" stroke="#AEB79F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="62" y="34" fill="#D8C3A5" font-size="16" font-weight="650" font-family="ui-sans-serif,system-ui">Peek inside</text>
+    <text x="205" y="34" fill="#7F8C76" font-size="16" font-family="ui-sans-serif,system-ui">↗</text>
+  </g>
+</svg>

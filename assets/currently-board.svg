@@ -1,0 +1,93 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11140F"/>
+      <stop offset="0.62" stop-color="#171C15"/>
+      <stop offset="1" stop-color="#241B15"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2B3328"/>
+      <stop offset="1" stop-color="#222820"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#080A07" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="350" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="348" rx="27" stroke="#394337" stroke-width="2"/>
+
+  <!-- left cozy illustration -->
+  <g transform="translate(46 39)">
+    <rect width="264" height="272" rx="24" fill="#171B16" stroke="#384436"/>
+    <rect x="20" y="20" width="224" height="122" rx="16" fill="#131A15"/>
+    <path d="M20 112L56 78L84 105L119 61L151 103L185 71L218 104L244 88V142H20V112Z" fill="#223326"/>
+    <path d="M43 38L34 57M77 30L68 49M112 46L103 65M151 28L142 47M193 39L184 58M225 25L216 44" stroke="#6D7868" stroke-width="2.4" stroke-linecap="round" opacity="0.65"/>
+    <path d="M22 166H242V252H22V166Z" fill="#2D221B"/>
+    <path d="M22 166H242" stroke="#674B35" stroke-width="4" opacity="0.75"/>
+
+    <!-- mug -->
+    <path d="M47 191H97V232C97 243 89 250 78 250H66C55 250 47 243 47 232V191Z" fill="#5A4030"/>
+    <path d="M97 201H106C119 201 119 222 106 222H97" stroke="#5A4030" stroke-width="6"/>
+    <path d="M59 181C53 171 68 166 61 157M78 181C72 171 87 166 80 157" stroke="#A58E70" stroke-width="2.6" stroke-linecap="round" opacity="0.8"/>
+
+    <!-- little plant -->
+    <path d="M182 199C173 184 172 166 177 150M184 188C197 178 204 165 205 151M178 176C165 170 157 160 154 149" stroke="#5A694F" stroke-width="4" stroke-linecap="round"/>
+    <ellipse cx="152" cy="147" rx="16" ry="8" transform="rotate(-30 152 147)" fill="#42543D"/>
+    <ellipse cx="207" cy="149" rx="17" ry="8" transform="rotate(-38 207 149)" fill="#4C6146"/>
+    <ellipse cx="175" cy="148" rx="17" ry="8" transform="rotate(72 175 148)" fill="#59694F"/>
+    <path d="M161 195H205L199 237H168L161 195Z" fill="#473429"/>
+
+    <text x="132" y="266" text-anchor="middle" fill="#8E9984" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">rain outside · warm desk inside</text>
+  </g>
+
+  <!-- right note board -->
+  <g transform="translate(342 35)" filter="url(#shadow)">
+    <rect width="812" height="280" rx="24" fill="url(#paper)" stroke="#424D3D"/>
+    <rect x="28" y="28" width="756" height="42" rx="12" fill="#1B211A"/>
+    <circle cx="50" cy="49" r="5" fill="#606C38"/>
+    <circle cx="68" cy="49" r="5" fill="#6F4E37"/>
+    <text x="91" y="55" fill="#C9B79B" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">A quiet little status board</text>
+
+    <!-- rows -->
+    <g font-family="ui-sans-serif, system-ui, sans-serif">
+      <g transform="translate(28 88)">
+        <rect width="756" height="34" rx="10" fill="#1A2019"/>
+        <circle cx="18" cy="17" r="8" fill="#34452F"/>
+        <path d="M18 11C14 14 13 18 14 21C18 19 21 16 22 12C21 12 19 12 18 11Z" fill="#A7B49B"/>
+        <text x="42" y="22" fill="#9BA78F" font-size="13" font-weight="700" letter-spacing="1.2">LEARNING</text>
+        <text x="155" y="22" fill="#D8C3A5" font-size="15">Distributed systems &amp; software architecture</text>
+      </g>
+
+      <g transform="translate(28 132)">
+        <rect width="756" height="34" rx="10" fill="#1A2019"/>
+        <circle cx="18" cy="17" r="8" fill="#4A3728"/>
+        <path d="M13 21L17 13L20 16L23 10" stroke="#D2BFA0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="22" fill="#9BA78F" font-size="13" font-weight="700" letter-spacing="1.2">BUILDING</text>
+        <text x="155" y="22" fill="#D8C3A5" font-size="15">Backend-heavy products and AI applications</text>
+      </g>
+
+      <g transform="translate(28 176)">
+        <rect width="756" height="34" rx="10" fill="#1A2019"/>
+        <circle cx="18" cy="17" r="8" fill="#4B382C"/>
+        <path d="M13 13H22V19C22 22 20 24 17.5 24C15 24 13 22 13 19V13Z" stroke="#D4BE9E" stroke-width="1.6"/>
+        <path d="M22 15H24C27 15 27 19 24 19H22" stroke="#D4BE9E" stroke-width="1.6"/>
+        <text x="42" y="22" fill="#9BA78F" font-size="13" font-weight="700" letter-spacing="1.2">FUELED BY</text>
+        <text x="155" y="22" fill="#D8C3A5" font-size="15">Coffee and questionable sleep schedules</text>
+      </g>
+
+      <g transform="translate(28 220)">
+        <rect width="756" height="34" rx="10" fill="#1A2019"/>
+        <circle cx="18" cy="17" r="8" fill="#34403A"/>
+        <path d="M14 13V21C14 23 16 24 18 23L22 21V13L18 15L14 13Z" stroke="#B7C0AF" stroke-width="1.6" stroke-linejoin="round"/>
+        <text x="42" y="22" fill="#9BA78F" font-size="13" font-weight="700" letter-spacing="1.2">LISTENING</text>
+        <text x="155" y="22" fill="#D8C3A5" font-size="15">Lofi / chill / whatever keeps the room quiet</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- bottom gaming note -->
+  <g transform="translate(717 317)">
+    <text x="0" y="0" fill="#7F8B76" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">and occasionally escaping into games when my brain needs a reset.</text>
+  </g>
+</svg>
