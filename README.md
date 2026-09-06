@@ -49,29 +49,8 @@ Most days I'm somewhere between **backend systems**, **realtime apps**, **AI age
 
 ## My little toolbox
 
-<p>
-  <code>TypeScript</code>
-  <code>JavaScript</code>
-  <code>Python</code>
-  <code>Java</code>
-  <code>SQL</code>
-</p>
-
-<p>
-  <code>Node.js</code>
-  <code>Express</code>
-  <code>FastAPI</code>
-  <code>React</code>
-  <code>PostgreSQL</code>
-  <code>MongoDB</code>
-  <code>Redis</code>
-</p>
-
-<p>
-  <code>Docker</code>
-  <code>Kubernetes</code>
-  <code>GitHub Actions</code>
-  <code>AWS</code>
+<p align="center">
+  <img src="./assets/toolbox-board.svg" alt="Cozy toolbox board showing languages, backend, data and delivery tools" width="100%" />
 </p>
 
 ## Currently wandering around
