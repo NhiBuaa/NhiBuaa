@@ -1,0 +1,11 @@
+<svg width="240" height="58" viewBox="0 0 240 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><filter id="s" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#080A07" flood-opacity="0.45"/></filter></defs>
+  <g filter="url(#s)">
+    <rect x="3" y="3" width="234" height="50" rx="15" fill="#211B16" stroke="#594936"/>
+    <rect x="14" y="11" width="34" height="34" rx="10" fill="#4A3728"/>
+    <circle cx="31" cy="28" r="11" stroke="#D8C3A5" stroke-width="1.8"/>
+    <path d="M28 23L36 28L28 33V23Z" fill="#C7B28F"/>
+    <text x="62" y="34" fill="#D8C3A5" font-size="16" font-weight="650" font-family="ui-sans-serif,system-ui">Watch demo</text>
+    <text x="205" y="34" fill="#9B856B" font-size="16" font-family="ui-sans-serif,system-ui">↗</text>
+  </g>
+</svg>
