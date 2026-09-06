@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-  <sub>software engineering student · ho chi minh city</sub>
+  <sub>Software Engineering student · Ho Chi Minh City</sub>
 </p>
 
-## about me
+## About me
 
-hey, i'm nhi.
+Hey, I'm Nhi.
 
-i like building software, drinking coffee, listening to chill music, and spending way too much time figuring out why something that worked yesterday suddenly doesn't work today.
+I like building software, drinking coffee, listening to chill music, and spending way too much time figuring out why something that worked yesterday suddenly doesn't work today.
 
-most days i'm somewhere between **backend systems**, **realtime apps**, **ai agents**, and whatever feels interesting enough to explore next.
+Most days I'm somewhere between **backend systems**, **realtime apps**, **AI agents**, and whatever feels interesting enough to explore next.
 
-> build it → break it → understand it → make it better.
+> Build it → break it → understand it → make it better.
 
-## things i'm building
+## Things I'm building
 
 <table>
   <tr>
@@ -26,12 +26,12 @@ most days i'm somewhere between **backend systems**, **realtime apps**, **ai age
       </a>
       <br />
       <sub>
-        a full-stack realtime communication platform where i've been exploring reliable message delivery, distributed coordination, idempotency and WebRTC.
+        A full-stack realtime communication platform where I've been exploring reliable message delivery, distributed coordination, idempotency and WebRTC.
       </sub>
       <br /><br />
-      <a href="https://github.com/NhiBuaa/kitta-chat"><b>peek inside →</b></a>
+      <a href="https://github.com/NhiBuaa/kitta-chat"><b>Peek inside →</b></a>
       ·
-      <a href="https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view"><b>watch demo ↗</b></a>
+      <a href="https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view"><b>Watch demo ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/NhiBuaa/knora-agent">
@@ -39,15 +39,15 @@ most days i'm somewhere between **backend systems**, **realtime apps**, **ai age
       </a>
       <br />
       <sub>
-        an AI support and knowledge agent for uploaded documents, with cited answers, workspace isolation, ingestion pipelines and evaluation traces.
+        An AI support and knowledge agent for uploaded documents, with cited answers, workspace isolation, ingestion pipelines and evaluation traces.
       </sub>
       <br /><br />
-      <a href="https://github.com/NhiBuaa/knora-agent"><b>explore knora →</b></a>
+      <a href="https://github.com/NhiBuaa/knora-agent"><b>Explore Knora →</b></a>
     </td>
   </tr>
 </table>
 
-## my little toolbox
+## My little toolbox
 
 <p>
   <code>TypeScript</code>
@@ -74,34 +74,34 @@ most days i'm somewhere between **backend systems**, **realtime apps**, **ai age
   <code>AWS</code>
 </p>
 
-## currently wandering around
+## Currently wandering around
 
 ```text
-🌱 learning     distributed systems & software architecture
-🛠 building     backend-heavy products and AI applications
-☕ fueled by    coffee and questionable sleep schedules
-🎧 listening    lofi / chill / whatever keeps the room quiet
-🎮 escaping     into games every now and then
+🌱 Learning      distributed systems & software architecture
+🛠 Building      backend-heavy products and AI applications
+☕ Fueled by     coffee and questionable sleep schedules
+🎧 Listening     lofi / chill / whatever keeps the room quiet
+🎮 Escaping      into games every now and then
 ```
 
-## a few more things i've shipped
+## A few more things I've shipped
 
 - **[DevOps Final Project](https://github.com/NhiBuaa/devops-final-project)** — Docker, Kubernetes/K3s, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Loki and AWS around a small full-stack workload.
-- **[8-Puzzle Variation](https://github.com/NhiBuaa/8-Puzzle-Variation)** — a smaller algorithm-focused project from the more academic side of my GitHub.
-- **[image-processing-app](https://github.com/NhiBuaa/image-processing-app)** — a compact image-processing project from my coursework experiments.
+- **[8-Puzzle Variation](https://github.com/NhiBuaa/8-Puzzle-Variation)** — A smaller algorithm-focused project from the more academic side of my GitHub.
+- **[Image Processing App](https://github.com/NhiBuaa/image-processing-app)** — A compact image-processing project from my coursework experiments.
 
-## find me elsewhere
+## Find me elsewhere
 
 <p>
-  <a href="https://nhibuaa.space">portfolio</a>
+  <a href="https://nhibuaa.space">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/nhibuaa/">linkedin</a>
+  <a href="https://www.linkedin.com/in/nhibuaa/">LinkedIn</a>
   ·
-  <a href="mailto:nhihuynh210905@gmail.com">email</a>
+  <a href="mailto:nhihuynh210905@gmail.com">Email</a>
 </p>
 
 <br />
 
 <p align="center">
-  <sub>🌿 thanks for wandering by — see you around.</sub>
+  <sub>🌿 Thanks for wandering by — see you around.</sub>
 </p>
