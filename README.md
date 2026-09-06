@@ -68,21 +68,27 @@ Most days I'm somewhere between **backend systems**, **realtime apps**, **AI age
   <img src="./assets/currently-board.svg" alt="Cozy status board showing what Nhi is currently learning, building, drinking and listening to" width="100%" />
 </p>
 
-## A few more things I've shipped
-
-- **[DevOps Final Project](https://github.com/NhiBuaa/devops-final-project)** — Docker, Kubernetes/K3s, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Loki and AWS around a small full-stack workload.
-- **[8-Puzzle Variation](https://github.com/NhiBuaa/8-Puzzle-Variation)** — A smaller algorithm-focused project from the more academic side of my GitHub.
-- **[Image Processing App](https://github.com/NhiBuaa/image-processing-app)** — A compact image-processing project from my coursework experiments.
-
 ## Find me elsewhere
 
-<p>
-  <a href="https://nhibuaa.space">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/nhibuaa/">LinkedIn</a>
-  ·
-  <a href="mailto:nhihuynh210905@gmail.com">Email</a>
-</p>
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <a href="https://nhibuaa.space">
+        <img src="./assets/social-portfolio.svg" alt="Visit Nhi's portfolio" width="100%" />
+      </a>
+    </td>
+    <td width="33.33%" align="center">
+      <a href="https://www.linkedin.com/in/nhibuaa/">
+        <img src="./assets/social-linkedin.svg" alt="Visit Nhi's LinkedIn" width="100%" />
+      </a>
+    </td>
+    <td width="33.33%" align="center">
+      <a href="mailto:nhihuynh210905@gmail.com">
+        <img src="./assets/social-email.svg" alt="Email Nhi" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
