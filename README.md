@@ -29,9 +29,14 @@ Most days I'm somewhere between **backend systems**, **realtime apps**, **AI age
         A full-stack realtime communication platform where I've been exploring reliable message delivery, distributed coordination, idempotency and WebRTC.
       </sub>
       <br /><br />
-      <a href="https://github.com/NhiBuaa/kitta-chat"><b>Peek inside →</b></a>
-      ·
-      <a href="https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view"><b>Watch demo ↗</b></a>
+      <p align="center">
+        <a href="https://github.com/NhiBuaa/kitta-chat">
+          <img src="./assets/kittachat-repo-button.svg" alt="Peek inside KittaChat repository" width="46%" />
+        </a>
+        <a href="https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view">
+          <img src="./assets/kittachat-demo-button.svg" alt="Watch KittaChat demo" width="46%" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/NhiBuaa/knora-agent">
@@ -42,7 +47,11 @@ Most days I'm somewhere between **backend systems**, **realtime apps**, **AI age
         An AI support and knowledge agent for uploaded documents, with cited answers, workspace isolation, ingestion pipelines and evaluation traces.
       </sub>
       <br /><br />
-      <a href="https://github.com/NhiBuaa/knora-agent"><b>Explore Knora →</b></a>
+      <p align="center">
+        <a href="https://github.com/NhiBuaa/knora-agent">
+          <img src="./assets/knora-repo-button.svg" alt="Explore Knora repository" width="46%" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
