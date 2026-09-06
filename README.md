@@ -55,13 +55,9 @@ Most days I'm somewhere between **backend systems**, **realtime apps**, **AI age
 
 ## Currently wandering around
 
-```text
-🌱 Learning      distributed systems & software architecture
-🛠 Building      backend-heavy products and AI applications
-☕ Fueled by     coffee and questionable sleep schedules
-🎧 Listening     lofi / chill / whatever keeps the room quiet
-🎮 Escaping      into games every now and then
-```
+<p align="center">
+  <img src="./assets/currently-board.svg" alt="Cozy status board showing what Nhi is currently learning, building, drinking and listening to" width="100%" />
+</p>
 
 ## A few more things I've shipped
 
