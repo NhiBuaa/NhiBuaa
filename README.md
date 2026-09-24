@@ -1,74 +1,133 @@
 <p align="center">
-  <img src="./assets/cozy-header.svg" alt="NhiBuaa cozy dark forest developer header" width="100%" />
+  <img src="./assets/cozy-header.svg" alt="NhiBuaa — Software Engineering student focused on Backend & AI Systems" width="100%" />
+</p>
+
+<h1 align="center">Hey, I'm Nhi 👋</h1>
+
+<p align="center">
+  <strong>Software Engineering student focused on Backend & AI Systems.</strong>
 </p>
 
 <p align="center">
-  <sub>Software Engineering student · Ho Chi Minh City</sub>
+  Building production-oriented backend systems, distributed realtime applications,
+  and applied AI systems with an emphasis on correctness, reliability, and reproducible engineering evidence.
 </p>
-
-## About me
-
-Hey, I'm Nhi.
-
-I like building software, drinking coffee, listening to chill music, and spending way too much time figuring out why something that worked yesterday suddenly doesn't work today.
-
-Most days I'm somewhere between **backend systems**, **realtime apps**, **AI agents**, and whatever feels interesting enough to explore next.
-
-> Build it → break it → understand it → make it better.
-
-## Things I'm building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NhiBuaa/kitta-chat">
-        <img src="./assets/kittachat-card.svg" alt="KittaChat project card" width="100%" />
-      </a>
-      <br />
-      <sub>
-        A full-stack realtime communication platform where I've been exploring reliable message delivery, distributed coordination, idempotency and WebRTC.
-      </sub>
-      <br /><br />
-      <p align="center">
-        <a href="https://github.com/NhiBuaa/kitta-chat">
-          <img src="./assets/kittachat-repo-button.svg" alt="Peek inside KittaChat repository" width="46%" />
-        </a>
-        <a href="https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view">
-          <img src="./assets/kittachat-demo-button.svg" alt="Watch KittaChat demo" width="46%" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NhiBuaa/knora-agent">
-        <img src="./assets/knora-card.svg" alt="Knora project card" width="100%" />
-      </a>
-      <br />
-      <sub>
-        An AI support and knowledge agent for uploaded documents, with cited answers, workspace isolation, ingestion pipelines and evaluation traces.
-      </sub>
-      <br /><br />
-      <p align="center">
-        <a href="https://github.com/NhiBuaa/knora-agent">
-          <img src="./assets/knora-repo-button.svg" alt="Explore Knora repository" width="46%" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-## My little toolbox
 
 <p align="center">
-  <img src="./assets/toolbox-board.svg" alt="Cozy toolbox board showing languages, backend, data and delivery tools" width="100%" />
+  <a href="https://nhibuaa.space">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/nhibuaa/">LinkedIn</a>
+  ·
+  <a href="mailto:nhihuynh210905@gmail.com">Email</a>
 </p>
 
-## Currently wandering around
+---
+
+## Featured Engineering Work
+
+### 💬 KittaChat — Realtime Communication Platform
+
+<a href="https://github.com/NhiBuaa/kitta-chat">
+  <img src="./assets/kittachat-card.svg" alt="KittaChat realtime communication platform" width="100%" />
+</a>
+
+A production-oriented realtime communication system built to explore **distributed backend design, reliable messaging, asynchronous processing, and WebRTC communication**.
+
+**Engineering highlights**
+
+- Runs multiple Express + Socket.IO replicas behind nginx with Redis-based cross-instance event propagation.
+- Keeps MongoDB as durable state while using Redis only for presence, fan-out, caching, and short-lived coordination.
+- Uses idempotency-aware persistence to make optimistic message retries safe.
+- Handles competing call termination events through conditional durable-state transitions.
+- Uses RabbitMQ-backed retry and dead-letter flows for asynchronous notification, image, and audit work.
+- Includes Prometheus/Grafana observability, CI/security workflows, ADRs, integration tests, and reproducible performance evidence.
+
+**Stack:** Node.js · Express · Socket.IO · MongoDB · Redis · RabbitMQ · React · WebRTC · nginx · Docker
+
+**Explore:**  
+[Repository](https://github.com/NhiBuaa/kitta-chat) ·
+[Architecture](https://github.com/NhiBuaa/kitta-chat/blob/main/docs/ARCHITECTURE.md) ·
+[Engineering Decisions](https://github.com/NhiBuaa/kitta-chat/tree/main/docs/adr) ·
+[Watch Demo](https://drive.google.com/file/d/1qqE7t2oZpm36_EXk7Y98evX5B2TUkoW0/view)
+
+---
+
+### 🧠 Knora Agent — Cited Knowledge & Support Agent
+
+<a href="https://github.com/NhiBuaa/knora-agent">
+  <img src="./assets/knora-card.svg" alt="Knora Agent cited knowledge and support system" width="100%" />
+</a>
+
+A workspace-scoped AI knowledge and support system for answering questions from uploaded documents with **traceable citations and controlled retrieval/tool execution**.
+
+**Engineering highlights**
+
+- Implements cited retrieval over workspace-isolated document collections.
+- Processes PDFs through durable asynchronous ingestion jobs with polling, retry, reprocessing, and idempotency semantics.
+- Uses PostgreSQL + pgvector with versioned embedding configurations and hybrid retrieval.
+- Separates provider integrations behind adapters rather than coupling the application to one model vendor.
+- Records evaluation provenance so retrieval and semantic-quality claims remain tied to reproducible evidence.
+- Introduces controlled support-tool execution through proposal → human approval → execution/reconciliation boundaries.
+
+**Stack:** Python · FastAPI · PostgreSQL · pgvector · Docker · RAG · Hybrid Retrieval · LLM Providers
+
+**Explore:**  
+[Repository](https://github.com/NhiBuaa/knora-agent) ·
+[Project Overview](https://github.com/NhiBuaa/knora-agent/blob/main/docs/PROJECT_OVERVIEW.md) ·
+[Evaluation](https://github.com/NhiBuaa/knora-agent/blob/main/docs/evaluation.md)
+
+---
+
+## Engineering Focus
+
+**Backend & APIs**  
+Node.js / Express · Python / FastAPI · REST APIs
+
+**Data & State**  
+PostgreSQL / pgvector · MongoDB · Redis
+
+**Messaging & Realtime**  
+Socket.IO · RabbitMQ · WebRTC
+
+**Applied AI**  
+Retrieval-Augmented Generation · Hybrid Retrieval · Embeddings · Evaluation & Citation Provenance
+
+**Infrastructure**  
+Docker / Docker Compose · nginx · GitHub Actions · Prometheus / Grafana
+
+**Frontend**  
+React
+
+---
+
+## How I Like to Build
+
+I enjoy projects where the interesting part begins **after the happy path works**:
+
+- What happens when a request is retried?
+- What happens when two processes race?
+- Which system owns durable truth?
+- What should remain disposable?
+- How can a reviewer reproduce a claim instead of simply trusting it?
+- Where should an AI system stop and ask for human approval?
+
+That usually leads me somewhere between backend systems, realtime applications, infrastructure, and applied AI.
+
+> **Build it → break it → understand it → make it better.**
+
+---
+
+## A Little Outside the Code
+
+When I'm not debugging something that worked yesterday, I'm usually around coffee, chill music, or exploring another engineering rabbit hole that looked simpler before I opened it.
 
 <p align="center">
-  <img src="./assets/currently-board.svg" alt="Cozy status board showing what Nhi is currently learning, building, drinking and listening to" width="100%" />
+  <img src="./assets/currently-board.svg" alt="What Nhi is currently exploring" width="100%" />
 </p>
 
-## Find me elsewhere
+---
+
+## Find Me Elsewhere
 
 <table>
   <tr>
